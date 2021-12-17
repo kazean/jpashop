@@ -1,3 +1,4 @@
+/*
 package jpabook.jpashop;
 
 import lombok.Getter;
@@ -15,3 +16,4 @@ public class Member {
     private Long id;
     private String username;
 }
+*/
